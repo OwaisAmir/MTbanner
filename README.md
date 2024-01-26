@@ -12,8 +12,9 @@ TERMUX COMMAND:
 2) apt-get upgrade
 3) pkg install git
 4) git clone https://github.com/OwaisAmir/MTbanner.git
-5) cd MTbanner
-6) unzip MindTrigger_Banner.zip
-7) cd MindTrigger
-8) chmod +x banner.sh
-9) ./banner.sh
+5) pip install lolcat
+6) cd MTbanner
+7) unzip MindTrigger_Banner.zip
+8) cd MindTrigger
+9) chmod +x banner.sh
+10) ./banner.sh
